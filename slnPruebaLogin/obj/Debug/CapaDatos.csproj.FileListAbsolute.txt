@@ -1,0 +1,20 @@
+c:\users\cisco\documents\visual studio 2015\Projects\slnPruebaLogin\slnPruebaLogin\bin\Debug\slnPruebaLogin.exe.config
+c:\users\cisco\documents\visual studio 2015\Projects\slnPruebaLogin\slnPruebaLogin\bin\Debug\slnPruebaLogin.exe
+c:\users\cisco\documents\visual studio 2015\Projects\slnPruebaLogin\slnPruebaLogin\bin\Debug\slnPruebaLogin.pdb
+c:\users\cisco\documents\visual studio 2015\Projects\slnPruebaLogin\slnPruebaLogin\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+c:\users\cisco\documents\visual studio 2015\Projects\slnPruebaLogin\slnPruebaLogin\obj\Debug\slnPruebaLogin.Properties.Resources.resources
+c:\users\cisco\documents\visual studio 2015\Projects\slnPruebaLogin\slnPruebaLogin\obj\Debug\CapaDatos.csproj.GenerateResource.Cache
+c:\users\cisco\documents\visual studio 2015\Projects\slnPruebaLogin\slnPruebaLogin\obj\Debug\slnPruebaLogin.exe
+c:\users\cisco\documents\visual studio 2015\Projects\slnPruebaLogin\slnPruebaLogin\obj\Debug\slnPruebaLogin.pdb
+D:\Downloads\slnPruebaLogin\slnPruebaLogin\slnPruebaLogin\bin\Debug\slnPruebaLogin.exe.config
+D:\Downloads\slnPruebaLogin\slnPruebaLogin\slnPruebaLogin\obj\Debug\slnPruebaLogin.exe
+D:\Downloads\slnPruebaLogin\slnPruebaLogin\slnPruebaLogin\obj\Debug\slnPruebaLogin.pdb
+D:\Downloads\slnPruebaLogin\slnPruebaLogin\slnPruebaLogin\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Downloads\slnPruebaLogin\slnPruebaLogin\slnPruebaLogin\obj\Debug\slnPruebaLogin.Properties.Resources.resources
+D:\Downloads\slnPruebaLogin\slnPruebaLogin\slnPruebaLogin\obj\Debug\CapaDatos.csproj.GenerateResource.Cache
+D:\Desktop\Juan Lpez\Desktop\Lenguajes de Programacion\slnPruebaLogin\slnPruebaLogin\slnPruebaLogin\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Desktop\Juan Lpez\Desktop\Lenguajes de Programacion\slnPruebaLogin\slnPruebaLogin\slnPruebaLogin\obj\Debug\slnPruebaLogin.Properties.Resources.resources
+D:\Desktop\Juan Lpez\Desktop\Lenguajes de Programacion\slnPruebaLogin\slnPruebaLogin\slnPruebaLogin\obj\Debug\CapaDatos.csproj.GenerateResource.Cache
+D:\Desktop\Juan Lpez\Desktop\Lenguajes de Programacion\slnPruebaLogin\slnPruebaLogin\slnPruebaLogin\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Desktop\Juan Lpez\Desktop\Lenguajes de Programacion\slnPruebaLogin\slnPruebaLogin\slnPruebaLogin\obj\Debug\slnPruebaLogin.exe
+D:\Desktop\Juan Lpez\Desktop\Lenguajes de Programacion\slnPruebaLogin\slnPruebaLogin\slnPruebaLogin\obj\Debug\slnPruebaLogin.pdb
